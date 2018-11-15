@@ -3,7 +3,7 @@
 Since that I intent to make MadHouse become a startup company eventually, I don't want to go completly open source.
 This repository is only for internship hunting summer 2019. 
 
-![ScreenShot1](ScreenShot1.png)
+![ScreenShot2](ScreenShot1.png)
 
 ## Inspiration
 As university students who rent apartments off campus, we are often required to rent them for a full year. However, most students will be away during summer, which leaves the apartments vacant for almost three months. We think this is extremely wasteful. On the other hand, summer school attendees come to the university in that particular time period and have the need for accommodations. We believe it will be great if an app and match the two groups to better utilized the apartment spaces.
